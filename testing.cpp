@@ -1,4 +1,6 @@
 #include <bits/stdc++.h>
+#include<algorithm>
+#include<vector>
 using namespace std;
 typedef long long ll;
 #define pii pair<int,int>
