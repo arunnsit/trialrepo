@@ -6,7 +6,7 @@
 #define pb push_back
 #define rep(i,a,b) for(i=a;i<b;i++)
 using namespace std;
-
+//added a few extraordinary comments :p
 FILE *f2=freopen("2.txt","w",stdout);
 typedef pair<int,int> pii;
 int main()
